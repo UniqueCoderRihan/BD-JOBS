@@ -1,0 +1,10 @@
+.img{
+    width: 147.93px;
+    height: 110px;
+    padding: 5px;
+    border-radius: 10px;
+    justify-content: start;
+}
+.btnMore{
+    background:  linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+}

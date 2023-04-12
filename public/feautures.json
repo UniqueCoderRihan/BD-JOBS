@@ -1,0 +1,128 @@
+[
+    {
+      "id": "1",
+      "jobName": "Software Engineer",
+      "jobResponsibilities": [
+        "Develop software applications",
+        "Debugging and testing code"
+      ],
+      "contact":[
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ],
+      "salary": "50k-70k",
+      "type": "Remote",
+      "location": "Any location",
+      "jobDescription": "We are seeking a skilled software engineer to join our team",
+      "experience": "3+ years",
+      "educationQualification": "Bachelor's Degree in Computer Science or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Software Engineer"
+    },
+    {
+      "id": "2",
+      "jobName": "Product Manager",
+      "jobResponsibilities": [
+        "Develop product roadmap",
+        "Collaborate with cross-functional teams"
+      ],
+      "salary": "140k ",
+      "type": "Onsite",
+      "location": "San Francisco, CA",
+      "jobDescription": "We are seeking an experienced product manager to lead our product team",
+      "experience": "5+ years",
+      "educationQualification": "Bachelor's Degree in Business or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Product Manager",
+      "contact": [
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ]
+    },
+    {
+      "id": "3",
+      "jobName": "Data Scientist",
+      "jobResponsibilities": [
+        "Develop software applications",
+        "Debugging and testing code"
+      ],
+      "salary": "40k-90k",
+      "type": "Remote",
+      "location": "Any location",
+      "jobDescription": "We are seeking a skilled software engineer to join our team",
+      "experience": "3+ years",
+      "educationQualification": "Bachelor's Degree in Computer Science or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Data Scientist",
+      "contact": [
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ]
+    },
+    {
+      "id": "4",
+      "jobName": "Web Application develoepr ",
+      "jobResponsibilities": [
+        "Develop product roadmap",
+        "Collaborate with cross-functional teams"
+      ],
+      "salary": "140k ",
+      "type": "Onsite",
+      "location": "San Francisco, CA",
+      "jobDescription": "We are seeking an experienced product manager to lead our product team",
+      "experience": "5+ years",
+      "educationQualification": "Bachelor's Degree in Business or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Web Application develoepr",
+      "contact": [
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ]
+    },
+    {
+      "id": "5",
+      "jobName": "Programmer ",
+      "jobResponsibilities": [
+        "Develop software applications",
+        "Debugging and testing code"
+      ],
+      "salary": "450k-790k",
+      "type": "onsite",
+      "location": "Any location",
+      "jobDescription": "We are seeking a skilled software engineer to join our team",
+      "experience": "3+ years",
+      "educationQualification": "Bachelor's Degree in Computer Science or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Programmer",
+      "contact": [
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ]
+    },
+    {
+      "id": "6",
+      "jobName": "Data Managment ",
+      "jobResponsibilities": [
+        "Develop software applications",
+        "Debugging and testing code"
+      ],
+      "salary": "150k-290k",
+      "type": "Remote",
+      "location": "Any location",
+      "jobDescription": "We are seeking a skilled software engineer to join our team",
+      "experience": "3+ years",
+      "educationQualification": "Bachelor's Degree in Computer Science or related field",
+      "companyName": "Google",
+      "companyLogo": "https://e7.pngegg.com/pngimages/523/198/png-clipart-google-logo-google-search-google-play-google-text-logo.png",
+      "postName": "Data Managment",
+      "contact": [
+        "+8801822194770",
+        "bdjobs@gmail.com "
+      ]
+    }
+  ]
